@@ -9,7 +9,7 @@ heroAlt: Brown goat looking forward
 heroCredit: 'Photo by [Peter Neumann](https://unsplash.com/@peterneumann)'
 ---
 
-As I continue to use [React Testing Library](https://testing-library.com/react) more and more, I'm convinced it's the way to go for testing React apps and components. When [Kent](https://twitter.com/kentcdodds) first released React Testing Library and was sharing it out, I thought it was nice. But I was feeling pretty successful in my Enzyme tests so why switch? I thought React Testing Library was more or less the same as [Enzyme](https://enzymejs.github.io/enzyme/), just with a narrower API to keep you shooting yourself in the foot. I was kinda right.
+As I continue to use [React Testing Library](https://testing-library.com/react) more and more, I'm convinced it's the way to go for testing React apps and components. When [Kent](https://twitter.com/kentcdodds) first released React Testing Library and was sharing it out, I thought it was nice. But I was feeling pretty successful in my Enzyme tests so why switch? I thought React Testing Library was more or less the same as [Enzyme](https://enzymejs.github.io/enzyme/), just with a narrower API to keep you from shooting yourself in the foot. I was kinda right.
 
 When it comes to testing React components there are 3 main phases:
 
